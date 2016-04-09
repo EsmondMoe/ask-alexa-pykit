@@ -10,8 +10,8 @@ Each VoiceHandler function receives a Request object as input and outputs a Resp
 A response object is defined as the output of ResponseBuilder.create_response()
 """
 
-username = "mconnor3"
-password = "bd728tZMX"
+username = "*********"
+password = "*********"
 
 replies = ["sure dude",
            "will do",
